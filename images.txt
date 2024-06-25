@@ -2,4 +2,5 @@ hyperledger/fabric-peer:2.4.4
 hyperledger/fabric-orderer:2.4.4
 hyperledger/fabric-ccenv:2.4.4
 hyperledger/fabric-baseos:2.4.4
+hyperledger/fabric-tools:2.4.4
 hyperledger/fabric-ca:1.5.5
